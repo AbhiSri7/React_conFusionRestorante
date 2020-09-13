@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/React_conFusionRestorante/static/css/main.c191855c.chunk.css",
-    "main.js": "/React_conFusionRestorante/static/js/main.21ce3a54.chunk.js",
-    "main.js.map": "/React_conFusionRestorante/static/js/main.21ce3a54.chunk.js.map",
+    "main.js": "/React_conFusionRestorante/static/js/main.5d265e81.chunk.js",
+    "main.js.map": "/React_conFusionRestorante/static/js/main.5d265e81.chunk.js.map",
     "runtime-main.js": "/React_conFusionRestorante/static/js/runtime-main.5d1bd814.js",
     "runtime-main.js.map": "/React_conFusionRestorante/static/js/runtime-main.5d1bd814.js.map",
     "static/css/2.551b05c0.chunk.css": "/React_conFusionRestorante/static/css/2.551b05c0.chunk.css",
-    "static/js/2.52c96f7a.chunk.js": "/React_conFusionRestorante/static/js/2.52c96f7a.chunk.js",
-    "static/js/2.52c96f7a.chunk.js.map": "/React_conFusionRestorante/static/js/2.52c96f7a.chunk.js.map",
+    "static/js/2.6fb75134.chunk.js": "/React_conFusionRestorante/static/js/2.6fb75134.chunk.js",
+    "static/js/2.6fb75134.chunk.js.map": "/React_conFusionRestorante/static/js/2.6fb75134.chunk.js.map",
     "index.html": "/React_conFusionRestorante/index.html",
-    "precache-manifest.783926c96a8498e026197e14c0c74595.js": "/React_conFusionRestorante/precache-manifest.783926c96a8498e026197e14c0c74595.js",
+    "precache-manifest.4c3701be6a2dbfaa41e8d97926af126b.js": "/React_conFusionRestorante/precache-manifest.4c3701be6a2dbfaa41e8d97926af126b.js",
     "service-worker.js": "/React_conFusionRestorante/service-worker.js",
     "static/css/2.551b05c0.chunk.css.map": "/React_conFusionRestorante/static/css/2.551b05c0.chunk.css.map",
     "static/css/main.c191855c.chunk.css.map": "/React_conFusionRestorante/static/css/main.c191855c.chunk.css.map",
-    "static/js/2.52c96f7a.chunk.js.LICENSE.txt": "/React_conFusionRestorante/static/js/2.52c96f7a.chunk.js.LICENSE.txt",
+    "static/js/2.6fb75134.chunk.js.LICENSE.txt": "/React_conFusionRestorante/static/js/2.6fb75134.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/React_conFusionRestorante/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.5d1bd814.js",
     "static/css/2.551b05c0.chunk.css",
-    "static/js/2.52c96f7a.chunk.js",
+    "static/js/2.6fb75134.chunk.js",
     "static/css/main.c191855c.chunk.css",
-    "static/js/main.21ce3a54.chunk.js"
+    "static/js/main.5d265e81.chunk.js"
   ]
 }
