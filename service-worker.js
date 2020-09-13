@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React_conFusionRestorante/precache-manifest.424d9a73214fe77ba977e2c068ead9a5.js"
+  "/React_conFusionRestorante/precache-manifest.783926c96a8498e026197e14c0c74595.js"
 );
 
 self.addEventListener('message', (event) => {
