@@ -78,11 +78,11 @@ class Main extends Component {
             <CSSTransition key={this.props.location.key} classNames="page" timeout={300}>
               <Switch>
                 <Route path="/React_conFusionRestorante/home" component={HomePage} />
-                <Route exact path="/React_conFusionRestorante/menu" component={() => <Menu dishes={this.props.dishes} />} />
+                <Route exact path="/menu" component={() => <Menu dishes={this.props.dishes} />} />
                 <Route path="/React_conFusionRestorante/menu/:dishId" component={DishWithId} />
                 <Route exact path="/React_conFusionRestorante/contactus" component={() => <Contact resetFeedbackForm={this.props.resetFeedbackForm} postFeedback={this.props.postFeedback} /> } />
                 <Route path="/React_conFusionRestorante/aboutus" component={() => <About leaders={this.props.leaders} />} />
-                <Redirect to="/React_conFusionRestorante/home" />
+                {/* <Redirect to="/React_conFusionRestorante/home" /> */}
               </Switch>
             </CSSTransition>
           </TransitionGroup>
